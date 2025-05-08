@@ -6,41 +6,45 @@ categories:
         url: https://linux.do/
         icon: fab fa-linux
         description: 新的理想型社区
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
+      - name: 里屋
+        url: https://www.253874.net/
+        icon: far fa-warehouse
+        description: 青少年技术论坛
       - name: GitHub
         url: https://www.github.com
         icon: fab fa-github
         description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
-  - name: 学习资源
-    icon: fas fa-graduation-cap
+      - name: 我的群晖
+        url: https://20171127.xyz:874
+        icon: far fa-desktop
+        description: Synology Disktaion
+      - name: S1论坛
+        url: https://stage1st.com/2b/
+        icon: far fa-tire
+        description: 卓明谷
+      - name: 今日热榜
+        url: https://tophub.today/
+        icon: far fa-paragraph
+        description: 今日热榜官网
+  - name: 自建网站
+    icon: far fa-atom
     sites:
-      - name: 哔哩哔哩
-        url: https://www.bilibili.com
-        icon: fas fa-play-circle
-        description: 视频学习平台
-      - name: 知乎
-        url: https://www.zhihu.com
-        icon: fas fa-question-circle
-        description: 问答社区
-      - name: 掘金
-        url: https://juejin.cn
-        icon: fas fa-book
-        description: 高质量技术社区
-      - name: LeetCode
-        url: https://leetcode.cn
+      - name: LUCKY
+        url: https://nas.20171127.xyz:12800/zgf/#/about
+        icon: far fa-leaf-maple
+        description: 内部服务
+      - name: PDF文件编辑
+        url: https://pdf.20171127.xyz:12803/?lang=zh_CN
+        icon: far fa-file-pdf
+        description: PDF文件编辑
+      - name: 文件快递柜
+        url: https://file.20171127.xyz:12803/
+        icon: far fa-mailbox
+        description: 文件快递柜
+      - name: LibreTV
+        url: https://brics.dpdns.org/
         icon: fas fa-code
-        description: 算法刷题平台
+        description: 免费在线观看平台
   - name: 开发工具
     icon: fas fa-tools
     sites:
