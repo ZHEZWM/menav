@@ -1,29 +1,1117 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-05-08T10:11:43.779Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
-  - name: 技术资源
+  - name: 书签栏
     icon: fas fa-folder
     sites:
-      - name: GitHub
-        url: https://github.com/
-        icon: fab fa-github
-        description: "从书签导入: GitHub"
-      - name: Stack Overflow
-        url: https://stackoverflow.com/
-        icon: fab fa-stack-overflow
-        description: "从书签导入: Stack Overflow"
-      - name: MDN Web Docs
-        url: https://developer.mozilla.org/
+      - name: 体育
+        url: https://sports.sohu.com/
         icon: fas fa-link
-        description: "从书签导入: MDN Web Docs"
-  - name: 社交媒体
+        description: 体育
+      - name: 福利吧
+        url: https://fuliba2023.net/
+        icon: fas fa-link
+        description: 福利吧
+      - name: 外野
+        url: https://bbs.saraba1st.com/2b/forum-75-1.html
+        icon: fas fa-link
+        description: 外野
+      - name: 里屋
+        url: https://www.253874.net/
+        icon: fas fa-link
+        description: 里屋
+      - name: CHH二手
+        url: https://www.chiphell.com/forum-26-1.html
+        icon: fas fa-link
+        description: CHH二手
+      - name: 今日热榜官网
+        url: https://tophub.today/
+        icon: fas fa-link
+        description: 今日热榜官网
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
+        icon: fas fa-link
+        description: LINUX DO - 新的理想型社区
+      - name: 柒夜导航 - 黑科技网站资源集
+        url: https://nav.qinight.com/
+        icon: fas fa-link
+        description: 柒夜导航 - 黑科技网站资源集
+  - name: PT
     icon: fas fa-folder
     sites:
-      - name: Twitter
-        url: https://twitter.com/
-        icon: fab fa-twitter
-        description: "从书签导入: Twitter"
-      - name: LinkedIn
-        url: https://www.linkedin.com/
-        icon: fab fa-linkedin
-        description: "从书签导入: LinkedIn" 
+      - name: "备胎 :: 种子 - Powered by NexusPHP"
+        url: https://www.beitai.pt/torrents.php
+        icon: fas fa-link
+        description: "备胎 :: 种子 - Powered by NexusPHP"
+      - name: "HDArea :: 种子 High Definition Area|高清电影|种子下载|pt| bt|磁力下载|电影下载 - Powered by NexusPHP"
+        url: https://hdarea.club/
+        icon: fas fa-link
+        description: "HDArea :: 种子 High Definition Area|高清电影|种子下载|pt| bt|磁力下载|电影下载 - Powered by NexusPHP"
+      - name: "烧包 :: 首页 - Powered by PTSBAO"
+        url: https://ptsbao.club/index.php
+        icon: fas fa-link
+        description: "烧包 :: 首页 - Powered by PTSBAO"
+      - name: "BTSCHOOL :: 登录 比特校园PT小乐园 - Powered by NexusPHP"
+        url: https://pt.btschool.club/login.php
+        icon: fas fa-link
+        description: "BTSCHOOL :: 登录 比特校园PT小乐园 - Powered by NexusPHP"
+      - name: "M-Team - TP :: 首頁 - Powered by NexusPHP"
+        url: https://kp.m-team.cc/index
+        icon: fas fa-link
+        description: "M-Team - TP :: 首頁 - Powered by NexusPHP"
+      - name: "财神 :: 种子 - Powered by NexusPHP"
+        url: https://cspt.top/torrents.php?inclbookmarked=0&incldead=1&spstate=0&page=0
+        icon: fas fa-link
+        description: "财神 :: 种子 - Powered by NexusPHP"
+      - name: 首页 - YemaPT
+        url: https://www.yemapt.org/#/index
+        icon: fas fa-link
+        description: 首页 - YemaPT
+  - name: 装修
+    icon: fas fa-folder
+    sites:
+      - name: 全屋家电攻略 篇八：中央空调怎么买，中央空调分类、组成、风管机科普，尽在此篇。包含三电、大金、约克、开利等全介绍~_空调_什么值得买
+        url: https://post.smzdm.com/p/a9g23qk0/
+        icon: fas fa-link
+        description: 全屋家电攻略 篇八：中央空调怎么买，中央空调分类、组成、风管机科普，尽在此篇。包含三电、大金、约克、开利等全介绍~_空调_什么值得买
+      - name: 有哪些操作是你装修好房子后最后悔的地方？ - 知乎
+        url: https://www.zhihu.com/question/270275220
+        icon: fas fa-link
+        description: 有哪些操作是你装修好房子后最后悔的地方？ - 知乎
+      - name: 我家厨房装修时，用尽了当下的流行元素，总结出这些利与弊_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a7dmlkvd/
+        icon: fas fa-link
+        description: 我家厨房装修时，用尽了当下的流行元素，总结出这些利与弊_装修主材_什么值得买
+      - name: 全屋定制套路深，含泪总结这10个坑：板材迷魂、五金、增项漏项，看完商家坑不住你~_装修主材_什么值得买
+        url: https://post.smzdm.com/p/anxnx2z0/
+        icon: fas fa-link
+        description: 全屋定制套路深，含泪总结这10个坑：板材迷魂、五金、增项漏项，看完商家坑不住你~_装修主材_什么值得买
+      - name: 不用接电源的室外无线监控，超长续航，小米室外摄像机电池版_智能摄像机_什么值得买
+        url: https://post.smzdm.com/p/apxgmnr0/
+        icon: fas fa-link
+        description: 不用接电源的室外无线监控，超长续航，小米室外摄像机电池版_智能摄像机_什么值得买
+      - name: 盘点6个网上很流行，现实却“频繁翻车”的装修设计，别再跟风了_家装主材_什么值得买
+        url: https://post.smzdm.com/p/a85dgm3l/
+        icon: fas fa-link
+        description: 盘点6个网上很流行，现实却“频繁翻车”的装修设计，别再跟风了_家装主材_什么值得买
+      - name: 家装陷阱40条 - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛
+        url: https://bbs.saraba1st.com/2b/thread-1889690-1-1.html
+        icon: fas fa-link
+        description: 家装陷阱40条 - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛
+      - name: 近两年风很大的5个“过度装修案例”，暗藏很多坑，别再跟风了_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a85g6dk6/
+        icon: fas fa-link
+        description: 近两年风很大的5个“过度装修案例”，暗藏很多坑，别再跟风了_装修主材_什么值得买
+      - name: 入住新房半年，才发现当初这6个装修决定是错误的，现在真后悔_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a306o34d/
+        icon: fas fa-link
+        description: 入住新房半年，才发现当初这6个装修决定是错误的，现在真后悔_装修主材_什么值得买
+      - name: 就这又丑又费钱的8厘米，差点毁了我精致的家_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a90l8mw7/
+        icon: fas fa-link
+        description: 就这又丑又费钱的8厘米，差点毁了我精致的家_装修主材_什么值得买
+      - name: 若不差钱，装修中给这9个地方做个升级，小贵却大大提升幸福感_家装主材_什么值得买
+        url: https://post.smzdm.com/p/arq368xw/
+        icon: fas fa-link
+        description: 若不差钱，装修中给这9个地方做个升级，小贵却大大提升幸福感_家装主材_什么值得买
+      - name: 我走过最长的路就是装修的套路，人生第二次装修这次我买了八样最值得推荐的物件儿，附送全套收纳柜图纸_收纳用品_什么值得买
+        url: https://post.smzdm.com/p/an3zxpe7/
+        icon: fas fa-link
+        description: 我走过最长的路就是装修的套路，人生第二次装修这次我买了八样最值得推荐的物件儿，附送全套收纳柜图纸_收纳用品_什么值得买
+      - name: 网络方案 篇二：MESH组网方案全集（有线回程，无线回程，AP模式，单线复用）_路由器_什么值得买
+        url: https://post.smzdm.com/p/arq30pex/
+        icon: fas fa-link
+        description: 网络方案 篇二：MESH组网方案全集（有线回程，无线回程，AP模式，单线复用）_路由器_什么值得买
+      - name: 我妈第一次来我家直接惊呆，吐槽：原来你的钱都是这样花光的！_收纳用品_什么值得买
+        url: https://post.smzdm.com/p/arq3ld6w/
+        icon: fas fa-link
+        description: 我妈第一次来我家直接惊呆，吐槽：原来你的钱都是这样花光的！_收纳用品_什么值得买
+      - name: “墙裂”推荐的书架！但是我的墙真的裂了！_书架_什么值得买
+        url: https://post.smzdm.com/p/a7nq0oqd/
+        icon: fas fa-link
+        description: “墙裂”推荐的书架！但是我的墙真的裂了！_书架_什么值得买
+      - name: 从一个卖家的角度告诉你 水电材料购买技巧～附价格表 记得收藏_装修主材_什么值得买
+        url: https://post.smzdm.com/p/agqkxz63/
+        icon: fas fa-link
+        description: 从一个卖家的角度告诉你 水电材料购买技巧～附价格表 记得收藏_装修主材_什么值得买
+      - name: 140平的四房二厅，硬装只花了15万！最庆幸这9个决定，效果越看越满意！_家装主材_什么值得买
+        url: https://post.smzdm.com/p/aqm8rrdk/
+        icon: fas fa-link
+        description: 140平的四房二厅，硬装只花了15万！最庆幸这9个决定，效果越看越满意！_家装主材_什么值得买
+      - name: 历时一年，二手房花费6000元改造全屋智能， 给你防踩雷避坑指南_网络设备_什么值得买
+        url: https://post.smzdm.com/p/az6prvp0/
+        icon: fas fa-link
+        description: 历时一年，二手房花费6000元改造全屋智能， 给你防踩雷避坑指南_网络设备_什么值得买
+      - name: 坚持断舍离的二胎妈妈，不买沙发茶几，将96㎡小家装修得“空无一物”，太漂亮了_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a7nqz0e9/
+        icon: fas fa-link
+        description: 坚持断舍离的二胎妈妈，不买沙发茶几，将96㎡小家装修得“空无一物”，太漂亮了_装修主材_什么值得买
+      - name: 厨房装修的10大谎言，圆弧挡水条，是当之无愧的Top1_装修主材_什么值得买
+        url: https://post.smzdm.com/p/a8xe42v7/
+        icon: fas fa-link
+        description: 厨房装修的10大谎言，圆弧挡水条，是当之无愧的Top1_装修主材_什么值得买
+      - name: GT在家 篇五十：净化、加热二合一的厨下净热一体机值得买吗？选择、安装、使用体验全方位分享_净水设备_什么值得买
+        url: https://post.smzdm.com/p/a4plkzol/
+        icon: fas fa-link
+        description: GT在家 篇五十：净化、加热二合一的厨下净热一体机值得买吗？选择、安装、使用体验全方位分享_净水设备_什么值得买
+      - name: "6家值得收藏的瓷砖源头厂家， 亚细亚， 东鹏， 斯米克瓷砖品牌代工厂， 万科绿地恒大供应商，\_装修的看过来_装修主材_什么值得买"
+        url: https://post.smzdm.com/p/an3wz0ep/
+        icon: fas fa-link
+        description: "6家值得收藏的瓷砖源头厂家， 亚细亚， 东鹏， 斯米克瓷砖品牌代工厂， 万科绿地恒大供应商，\_装修的看过来_装修主材_什么值得买"
+      - name: 装修水电时，网线和光纤该怎么安装？_网络设备_什么值得买
+        url: https://post.smzdm.com/p/am8dek5z/
+        icon: fas fa-link
+        description: 装修水电时，网线和光纤该怎么安装？_网络设备_什么值得买
+      - name: 再买房，我一定学她家沙发不靠墙，往前挪0.5m，完工反而实用大气_家装主材_什么值得买
+        url: https://post.smzdm.com/p/allv57ze/
+        icon: fas fa-link
+        description: 再买房，我一定学她家沙发不靠墙，往前挪0.5m，完工反而实用大气_家装主材_什么值得买
+      - name: 一篇搞定 篇二：超详细的洗碗机选购攻略-一篇教你读懂洗碗机_洗碗机_什么值得买
+        url: https://post.smzdm.com/p/allvv8zo/
+        icon: fas fa-link
+        description: 一篇搞定 篇二：超详细的洗碗机选购攻略-一篇教你读懂洗碗机_洗碗机_什么值得买
+      - name: 若再装修一次，我一定会效仿的“6个神操作”，不光省钱，还实用_花洒_什么值得买
+        url: https://post.smzdm.com/p/ao9lrge6/
+        icon: fas fa-link
+        description: 若再装修一次，我一定会效仿的“6个神操作”，不光省钱，还实用_花洒_什么值得买
+      - name: 捡到宝！一整面墙的床尾金属衣柜太香了！_衣柜_什么值得买
+        url: https://post.smzdm.com/p/a60mmwee/
+        icon: fas fa-link
+        description: 捡到宝！一整面墙的床尾金属衣柜太香了！_衣柜_什么值得买
+      - name: 揭秘装修公司最全坑钱流程，可以说是环环紧扣，一个也“逃不掉”_装修主材_什么值得买
+        url: https://post.smzdm.com/p/akkn50g4/
+        icon: fas fa-link
+        description: 揭秘装修公司最全坑钱流程，可以说是环环紧扣，一个也“逃不掉”_装修主材_什么值得买
+      - name: 养花秘籍 篇二十二：10种懒人易养的绿植，还能净化空气，十几块钱的快乐_盆栽_什么值得买
+        url: https://post.smzdm.com/p/a4pee3vk/
+        icon: fas fa-link
+        description: 养花秘籍 篇二十二：10种懒人易养的绿植，还能净化空气，十几块钱的快乐_盆栽_什么值得买
+      - name: 宽带师傅的七个“隐藏菜单”——你只要知道提就能帮上忙_网络设备_什么值得买
+        url: https://post.smzdm.com/p/a90nzq3p/
+        icon: fas fa-link
+        description: 宽带师傅的七个“隐藏菜单”——你只要知道提就能帮上忙_网络设备_什么值得买
+      - name: 看似合理，实则很傻的10大装修谎言，浪费钱不说，还给自己添堵_地板_什么值得买
+        url: https://post.smzdm.com/p/az6wnnz5/
+        icon: fas fa-link
+        description: 看似合理，实则很傻的10大装修谎言，浪费钱不说，还给自己添堵_地板_什么值得买
+      - name: 我妈吐槽我净买一些“怪东西”，用了一个多月，没想到用上瘾了！_收纳保鲜_什么值得买
+        url: https://post.smzdm.com/p/axzwg5d2/
+        icon: fas fa-link
+        description: 我妈吐槽我净买一些“怪东西”，用了一个多月，没想到用上瘾了！_收纳保鲜_什么值得买
+      - name: 同样是原木风，为什么自家看着很廉价，而别家却看着很高级？_家装主材_什么值得买
+        url: https://post.smzdm.com/p/a8x7olm7/
+        icon: fas fa-link
+        description: 同样是原木风，为什么自家看着很廉价，而别家却看着很高级？_家装主材_什么值得买
+      - name: 7.3平一体设计城堡儿童房，美出圈啦！别担心，长大还可拆开用_装修主材_什么值得买
+        url: https://post.smzdm.com/p/ad9x453d/
+        icon: fas fa-link
+        description: 7.3平一体设计城堡儿童房，美出圈啦！别担心，长大还可拆开用_装修主材_什么值得买
+      - name: 最省钱全屋无线5G全覆盖方案：小米AX路由 AP模式下MESH组网教程_路由器_什么值得买
+        url: https://post.smzdm.com/p/a07nedw0/
+        icon: fas fa-link
+        description: 最省钱全屋无线5G全覆盖方案：小米AX路由 AP模式下MESH组网教程_路由器_什么值得买
+      - name: 卫生间装修的6大谎言，二次排水，是当之无愧的Top1_家装主材_什么值得买
+        url: https://post.smzdm.com/p/aevxkn7z/
+        icon: fas fa-link
+        description: 卫生间装修的6大谎言，二次排水，是当之无愧的Top1_家装主材_什么值得买
+      - name: 空调只要移机，铜管就会坏，必须换新的，这是套路还是真的？_空调_什么值得买
+        url: https://post.smzdm.com/p/an3w5m5v/
+        icon: fas fa-link
+        description: 空调只要移机，铜管就会坏，必须换新的，这是套路还是真的？_空调_什么值得买
+      - name: 若再铺一次地板，我还会拒绝这10个选择，不是苛刻，是吃过太多亏_地板_什么值得买
+        url: https://post.smzdm.com/p/ad9xowlx/
+        icon: fas fa-link
+        description: 若再铺一次地板，我还会拒绝这10个选择，不是苛刻，是吃过太多亏_地板_什么值得买
+      - name: 夏天来了，该洗空调啦！_空调_什么值得买
+        url: https://post.smzdm.com/p/ag45wvod/
+        icon: fas fa-link
+        description: 夏天来了，该洗空调啦！_空调_什么值得买
+      - name: 如果再装修厨房，我一定坚持“6不做”，不是不舍得花钱，是真的很实用_装修主材_什么值得买
+        url: https://post.smzdm.com/p/am8d0d9d/
+        icon: fas fa-link
+        description: 如果再装修厨房，我一定坚持“6不做”，不是不舍得花钱，是真的很实用_装修主材_什么值得买
+      - name: 阳台种菜你准备好了吗，从当年老家顶楼种花到种菜的转变_园艺用品_什么值得买
+        url: https://post.smzdm.com/p/apv8eoqx/
+        icon: fas fa-link
+        description: 阳台种菜你准备好了吗，从当年老家顶楼种花到种菜的转变_园艺用品_什么值得买
+      - name: 超长｜吐血整理30款宜家好物（20元以下），那些不必在拼多多上买的家居神器，热爱生活的人永远不会错过_碗碟盘_什么值得买
+        url: https://post.smzdm.com/p/axzw26vd/
+        icon: fas fa-link
+        description: 超长｜吐血整理30款宜家好物（20元以下），那些不必在拼多多上买的家居神器，热爱生活的人永远不会错过_碗碟盘_什么值得买
+      - name: 别再过度装修了，学学她家的130㎡简约风，全屋温馨舒适还很实用！_装修主材_什么值得买
+        url: https://post.smzdm.com/p/axz5n68w/
+        icon: fas fa-link
+        description: 别再过度装修了，学学她家的130㎡简约风，全屋温馨舒适还很实用！_装修主材_什么值得买
+      - name: (6 封私信) 什么花洒值得买？ - 知乎
+        url: https://www.zhihu.com/question/451015277
+        icon: fas fa-link
+        description: (6 封私信) 什么花洒值得买？ - 知乎
+      - name: 年轻人卧室，正在抛弃的东西，不只有衣柜_衣柜_什么值得买
+        url: https://post.smzdm.com/p/awz7m69k/
+        icon: fas fa-link
+        description: 年轻人卧室，正在抛弃的东西，不只有衣柜_衣柜_什么值得买
+      - name: 装修了两套房，含泪分享购买灯具的7不要，不仅省钱，关键是实用_灯具灯饰_什么值得买
+        url: https://post.smzdm.com/p/axzvmox9/
+        icon: fas fa-link
+        description: 装修了两套房，含泪分享购买灯具的7不要，不仅省钱，关键是实用_灯具灯饰_什么值得买
+      - name: 自信过头的装修翻车惨案，当初觉得很美翻了，如今每天累吐了_装修主材_什么值得买
+        url: https://post.smzdm.com/p/ao9dnwlr/
+        icon: fas fa-link
+        description: 自信过头的装修翻车惨案，当初觉得很美翻了，如今每天累吐了_装修主材_什么值得买
+      - name: 这十样东西自己买！装修公司送你都别要_装修主材_什么值得买
+        url: https://post.smzdm.com/p/akkzvnnr/
+        icon: fas fa-link
+        description: 这十样东西自己买！装修公司送你都别要_装修主材_什么值得买
+  - name: Oracle云相关
+    icon: fas fa-folder
+    sites:
+      - name: 申请Oracle Cloud永久免费服务+300美元试用额度 - 教程资源|网络资源|首页不显示 - 如有乐享
+        url: https://51.ruyo.net/14138.html
+        icon: fas fa-link
+        description: 申请Oracle Cloud永久免费服务+300美元试用额度 - 教程资源|网络资源|首页不显示 - 如有乐享
+      - name: 实例 | Oracle Cloud Infrastructure
+        url: https://cloud.oracle.com/compute/instances
+        icon: fas fa-link
+        description: 实例 | Oracle Cloud Infrastructure
+      - name: google cloud废了以后，甲骨文云超级好用，申请，安装v2-ui（翻墙）教程【实用】 - 里屋-生产力工具
+        url: https://www.253874.net/t/61111
+        icon: fas fa-link
+        description: google cloud废了以后，甲骨文云超级好用，申请，安装v2-ui（翻墙）教程【实用】 - 里屋-生产力工具
+      - name: 永久免费的甲骨文云服务器该怎么用？ARM高性能搭建VPN梯子、网站服务器！你要的全部都在这里 | 零度解说 - YouTube
+        url: https://www.youtube.com/watch?v=X9sexl1wXyE
+        icon: fab fa-youtube
+        description: 永久免费的甲骨文云服务器该怎么用？ARM高性能搭建VPN梯子、网站服务器！你要的全部都在这里 | 零度解说 - YouTube
+      - name: 甲骨文云免费VPS第3期：x-ui修改版，自动提示更新功能，新旧系统兼容，双模式acme证书申请。一键root更改root密码脚本。CF免费15年证书搭建x-ui节点保姆教程 - YouTube
+        url: https://www.youtube.com/watch?v=OTm1tlBmdHc
+        icon: fab fa-youtube
+        description: 甲骨文云免费VPS第3期：x-ui修改版，自动提示更新功能，新旧系统兼容，双模式acme证书申请。一键root更改root密码脚本。CF免费15年证书搭建x-ui节点保姆教程 - YouTube
+      - name: 全网首发：纯IPV6首次登录x-ui面版细节注意点，x-ui面版登录设置解析图，代理节点参数解析图，cloudflare小黄云及端口设置教程
+        url: https://ygkkk.blogspot.com/2022/03/x-uiipv4ipv6x-uicloudflare.html
+        icon: fas fa-link
+        description: 全网首发：纯IPV6首次登录x-ui面版细节注意点，x-ui面版登录设置解析图，代理节点参数解析图，cloudflare小黄云及端口设置教程
+      - name: 自建VPS科学上网节点！一个视频就够了！6.88RMB/月无限流量看8K！域名注册、解析、托管Cloudflare、证书申请、套用CDN！保姆级VPN搭建教程！（关联翻墙/VPS推荐/节点搭建） - YouTube
+        url: https://www.youtube.com/watch?v=Stdj6U568S0
+        icon: fab fa-youtube
+        description: 自建VPS科学上网节点！一个视频就够了！6.88RMB/月无限流量看8K！域名注册、解析、托管Cloudflare、证书申请、套用CDN！保姆级VPN搭建教程！（关联翻墙/VPS推荐/节点搭建） - YouTube
+      - name: 入站列表
+        url: http://131.186.17.150:56273/xui/
+        icon: fas fa-link
+        description: 入站列表
+      - name: 系统状态
+        url: http://217.142.148.206:60696/xui/
+        icon: fas fa-link
+        description: 系统状态
+  - name: REPL
+    icon: fas fa-folder
+    sites:
+      - name: "GitHub - yonggekkk/Replit-Xray: Replit容器部署xray核心代理，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持伪装网页变更设置"
+        url: https://github.com/yonggekkk/replit-xray
+        icon: fab fa-github
+        description: "GitHub - yonggekkk/Replit-Xray: Replit容器部署xray核心代理，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持伪装网页变更设置"
+      - name: "UptimeRobot: Free Website Monitoring Service"
+        url: https://uptimerobot.com/
+        icon: fas fa-link
+        description: "UptimeRobot: Free Website Monitoring Service"
+      - name: Account - Replit
+        url: https://replit.com/account
+        icon: fas fa-link
+        description: Account - Replit
+      - name: Sign-up | UptimeRobot
+        url: https://uptimerobot.com/signUp?ref=website-header
+        icon: fas fa-link
+        description: Sign-up | UptimeRobot
+      - name: 甬哥侃侃侃---官方博客
+        url: https://ygkkk.blogspot.com/
+        icon: fas fa-link
+        description: 甬哥侃侃侃---官方博客
+      - name: replit容器的应用 - 里屋-生产力工具
+        url: https://www.253874.net/t/77077
+        icon: fas fa-link
+        description: replit容器的应用 - 里屋-生产力工具
+      - name: 节点分享链接
+        url: https://146812ac-4a25-4518-b0d7-8c17231a2831-00-2ct4pm2efbgyn.sisko.replit.dev/146812ac-4a25-4518-b0d7-8c17231a2831.html
+        icon: fas fa-link
+        description: 节点分享链接
+      - name: 节点分享链接
+        url: https://cb6336f1-1a88-48ff-a0c4-e21f46683521-00-lnzew16lky53.pike.replit.dev/cb6336f1-1a88-48ff-a0c4-e21f46683521.html
+        icon: fas fa-link
+        description: 节点分享链接
+  - name: 域名及证书相关
+    icon: fas fa-folder
+    sites:
+      - name: DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
+        url: https://www.dnspod.cn/
+        icon: fas fa-link
+        description: DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
+      - name: 西部数码管理中心－获取优惠券
+        url: https://www.west.cn/manager/getcoupons.asp
+        icon: fas fa-link
+        description: 西部数码管理中心－获取优惠券
+      - name: 密钥 - 控制台
+        url: https://console.cloud.tencent.com/apigateway/key?rid=1
+        icon: fas fa-link
+        description: 密钥 - 控制台
+      - name: SSL证书管理控制台
+        url: https://yundun.console.aliyun.com/?spm=5176.6660585.774526198.1.3cdf6bf8O64GTW&p=cas#/overview/cn-hangzhou
+        icon: fas fa-link
+        description: SSL证书管理控制台
+      - name: 免费DNS托管，Cloud DNS托管和域名 | ClouDNS
+        url: https://www.cloudns.net/index/show/login/
+        icon: fas fa-link
+        description: 免费DNS托管，Cloud DNS托管和域名 | ClouDNS
+      - name: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
+        url: https://www.itdog.cn/
+        icon: fas fa-link
+        description: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
+      - name: 帐户主页 | Zhanguofeng@hotmail.com&#39;s Account | Cloudflare
+        url: https://dash.cloudflare.com/a7d897f370adf0e80e7c7c08e563bff4/home/domains
+        icon: fas fa-link
+        description: 帐户主页 | Zhanguofeng@hotmail.com&#39;s Account | Cloudflare
+      - name: edgecats.net
+        url: http://edgecats.net/
+        icon: fas fa-link
+        description: edgecats.net
+      - name: 首页-书签地球-中国首家浏览器书签共享平台
+        url: https://www.bookmarkearth.com/
+        icon: fas fa-link
+        description: 首页-书签地球-中国首家浏览器书签共享平台
+      - name: 学信档案
+        url: http://my.chsi.com.cn/archive/index.action
+        icon: fas fa-link
+        description: 学信档案
+      - name: 查找设备
+        url: https://i.mi.com/#phone
+        icon: fas fa-link
+        description: 查找设备
+      - name: Maze Generator
+        url: http://www.mazegenerator.net/
+        icon: fas fa-link
+        description: Maze Generator
+  - name: L站教育网邮箱
+    icon: fas fa-folder
+    sites:
+      - name: 邮件系统
+        url: https://hmail.gits.one/myMail.php
+        icon: fas fa-link
+        description: 邮件系统
+      - name: "Roundcube Webmail :: 欢迎使用 Roundcube Webmail"
+        url: https://web.cuda.li/?_task=mail&_mbox=INBOX
+        icon: fas fa-link
+        description: "Roundcube Webmail :: 欢迎使用 Roundcube Webmail"
+      - name: "Roundcube Webmail :: 欢迎使用 Roundcube Webmail"
+        url: https://mail.188660.xyz/mail/?_task=mail&_mbox=INBOX
+        icon: fas fa-link
+        description: "Roundcube Webmail :: 欢迎使用 Roundcube Webmail"
+      - name: Welcome to SMU Email Eystem
+        url: https://mail.hhy.ink/
+        icon: fas fa-link
+        description: Welcome to SMU Email Eystem
+      - name: ""
+        url: https://drive.google.com/
+        icon: fab fa-google
+        description: ""
+      - name: Ask AI Questions · Question AI Search Engine · iAsk is a Free Answer Engine - Ask AI for Homework Help and Question AI for Research Assistance
+        url: https://iask.ai/
+        icon: fas fa-link
+        description: Ask AI Questions · Question AI Search Engine · iAsk is a Free Answer Engine - Ask AI for Homework Help and Question AI for Research Assistance
+  - name: 脚本及软件
+    icon: fas fa-folder
+    sites:
+      - name: 下载 Youtube
+        url: https://x2convert.com/zh/Download?l=&f=-7852631227258728561&cs=b5bfefd2a4eca444&lif=https%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dozsiTerY8Mg&token=ABD8CF0DAA46A1727F3167686E81F33C
+        icon: fab fa-youtube
+        description: 下载 Youtube
+      - name: Greasy Fork - 安全、实用的用户脚本大全
+        url: https://greasyfork.org/zh-CN
+        icon: fas fa-link
+        description: Greasy Fork - 安全、实用的用户脚本大全
+      - name: Sleazy Fork
+        url: https://sleazyfork.org/zh-CN/search
+        icon: fas fa-link
+        description: Sleazy Fork
+      - name: 2024最佳备用翻墙利器!singbox如何使用永久免费vpn？mac ios 安卓 singbox如何使用永久免费高速的vless节点!高速稳定！无电脑，手机都能操作配置，YouTube视频8k秒杀干翻付费机场，零成本！自建vless节点无需本地优选ip，singbox配置简单替代付费客户端，最佳备用翻墙
+        url: https://kjgx668.blogspot.com/2024/02/2024singboxvpnmac-ios.html
+        icon: fas fa-link
+        description: 2024最佳备用翻墙利器!singbox如何使用永久免费vpn？mac ios 安卓 singbox如何使用永久免费高速的vless节点!高速稳定！无电脑，手机都能操作配置，YouTube视频8k秒杀干翻付费机场，零成本！自建vless节点无需本地优选ip，singbox配置简单替代付费客户端，最佳备用翻墙
+      - name: adob全套各版本下载
+        url: https://srkd59.yuque.com/srkd59/cc4pf5
+        icon: fas fa-link
+        description: adob全套各版本下载
+      - name: 傻瓜式图片处理软件InPixio Photo Studio Ultimate 11.0.7753.22643 汉化版 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/thread-1441339-1-1.html
+        icon: fas fa-link
+        description: 傻瓜式图片处理软件InPixio Photo Studio Ultimate 11.0.7753.22643 汉化版 - 『原创发布区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+      - name: 安装 | LiteLoaderQQNT
+        url: https://liteloaderqqnt.github.io/guide/install.html
+        icon: fab fa-github
+        description: 安装 | LiteLoaderQQNT
+      - name: 诺基亚贝尔EA0326GMP路由器刷机上手体验_路由器_什么值得买
+        url: https://post.smzdm.com/p/a2xe35g7/
+        icon: fas fa-link
+        description: 诺基亚贝尔EA0326GMP路由器刷机上手体验_路由器_什么值得买
+      - name: 贝尔AX3000 EA0326GMP刷机固件下载与教程OpenWRT_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1UZ421E7rW/?vd_source=3ff536755e1e0c40b8fc573b4a3ad546
+        icon: fas fa-link
+        description: 贝尔AX3000 EA0326GMP刷机固件下载与教程OpenWRT_哔哩哔哩_bilibili
+  - name: 外网访问及SSL
+    icon: fas fa-folder
+    sites:
+      - name: NAS完美外网系列教程_群晖 Synology_那是云|智能生活,上那是云 - 智能生活,上那是云
+        url: http://www.nasyun.com/thread-28981-1-1.html
+        icon: fas fa-link
+        description: NAS完美外网系列教程_群晖 Synology_那是云|智能生活,上那是云 - 智能生活,上那是云
+      - name: NAS云论坛_家用NAS_My Cloud Nas_智慧家庭_网络存储_家庭服务器_个人云存储_NAS交流云社区 - 智能生活,上那是云
+        url: http://www.nasyun.com/
+        icon: fas fa-link
+        description: NAS云论坛_家用NAS_My Cloud Nas_智慧家庭_网络存储_家庭服务器_个人云存储_NAS交流云社区 - 智能生活,上那是云
+      - name: NAS软路由篇(一)利用dokcer镜像DDNS-GO解析泛域名__什么值得买
+        url: https://post.smzdm.com/p/a9925ome/
+        icon: fas fa-link
+        description: NAS软路由篇(一)利用dokcer镜像DDNS-GO解析泛域名__什么值得买
+      - name: 异地访问NAS设备--FRP内网穿透_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/axz7qoqd/
+        icon: fas fa-link
+        description: 异地访问NAS设备--FRP内网穿透_NAS存储_什么值得买
+      - name: 群晖外网访问完全教程-DDNS、域名购买、解析、反向代理、导航页_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/arq9p4xx/
+        icon: fas fa-link
+        description: 群晖外网访问完全教程-DDNS、域名购买、解析、反向代理、导航页_NAS存储_什么值得买
+      - name: 从零开始的NAS之黑群晖通过DDNS实现外网访问_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/arqe72oq/
+        icon: fas fa-link
+        description: 从零开始的NAS之黑群晖通过DDNS实现外网访问_NAS存储_什么值得买
+      - name: 异地组网—— 软路由 zerotier 体验 - 知乎
+        url: https://zhuanlan.zhihu.com/p/433880308
+        icon: fas fa-link
+        description: 异地组网—— 软路由 zerotier 体验 - 知乎
+      - name: "买域名、DDNS解析、SSL证书：NAS公网远程访问详细\_操作流程_NAS存储_什么值得买"
+        url: https://post.smzdm.com/p/a303mrg7/
+        icon: fas fa-link
+        description: "买域名、DDNS解析、SSL证书：NAS公网远程访问详细\_操作流程_NAS存储_什么值得买"
+      - name: NAS部署TailScale，实现全远程访问、异地组网，开箱即用！群晖NAS、Windows部署Tailscale教程_软件应用_什么值得买
+        url: https://post.smzdm.com/p/a30l6e9k/
+        icon: fas fa-link
+        description: NAS部署TailScale，实现全远程访问、异地组网，开箱即用！群晖NAS、Windows部署Tailscale教程_软件应用_什么值得买
+  - name: 邮箱搭建
+    icon: fas fa-folder
+    sites:
+      - name: 群晖邮箱mailplus的妙用，多邮箱账号用户强烈推荐_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/alle6vre/
+        icon: fas fa-link
+        description: 群晖邮箱mailplus的妙用，多邮箱账号用户强烈推荐_NAS存储_什么值得买
+      - name: 手把手教你用群晖搭建属于自己的邮箱服务器（折腾群晖系列一）_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/alxk2ne0/
+        icon: fas fa-link
+        description: 手把手教你用群晖搭建属于自己的邮箱服务器（折腾群晖系列一）_NAS存储_什么值得买
+  - name: 影音教程
+    icon: fas fa-folder
+    sites:
+      - name: 群晖NAS 篇一：Plex家庭影音墙调教篇_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/a3dzm3ed/
+        icon: fas fa-link
+        description: 群晖NAS 篇一：Plex家庭影音墙调教篇_NAS存储_什么值得买
+      - name: PLEX平台XBMC nfo Movies Importer插件简明教程_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/ax0rmp2d/
+        icon: fas fa-link
+        description: PLEX平台XBMC nfo Movies Importer插件简明教程_NAS存储_什么值得买
+      - name: Plex 加载本地 nfo 文件和本地外挂字幕 - 知乎
+        url: https://zhuanlan.zhihu.com/p/395024381
+        icon: fas fa-link
+        description: Plex 加载本地 nfo 文件和本地外挂字幕 - 知乎
+      - name: 居家数码 篇十八：全自动追剧工具NAS-Tool安装设置不完全手册_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/akk49m9r/
+        icon: fas fa-link
+        description: 居家数码 篇十八：全自动追剧工具NAS-Tool安装设置不完全手册_NAS存储_什么值得买
+      - name: 每天一个群晖小tip 篇八：一文搞定nastool基础教程_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/akk3vrl8/
+        icon: fas fa-link
+        description: 每天一个群晖小tip 篇八：一文搞定nastool基础教程_NAS存储_什么值得买
+      - name: NAS相关 篇七：nastools群晖保姆级踩坑教程拯救懵逼的你_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/all2o6mp/
+        icon: fas fa-link
+        description: NAS相关 篇七：nastools群晖保姆级踩坑教程拯救懵逼的你_NAS存储_什么值得买
+      - name: "MoviePilot: NAS媒体库自动化管理工具，导入自https://github.com/jxxghp/MoviePilot"
+        url: https://gitee.com/redbrother/MoviePilot
+        icon: fas fa-link
+        description: "MoviePilot: NAS媒体库自动化管理工具，导入自https://github.com/jxxghp/MoviePilot"
+      - name: Kodi 17.7 DSPlayer x64 BETTERGUI (2020 build)
+        url: https://forum.kodi.tv/showthread.php?tid=351534
+        icon: fas fa-link
+        description: Kodi 17.7 DSPlayer x64 BETTERGUI (2020 build)
+  - name: 功能扩展
+    icon: fas fa-folder
+    sites:
+      - name: 群辉docker-Bitwarden开源密码库搭建_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/am8envvk/
+        icon: fas fa-link
+        description: 群辉docker-Bitwarden开源密码库搭建_NAS存储_什么值得买
+      - name: 新手向NAS教程 篇二十一：高质量国产免费SD-WAN！Docker版蒲公英群晖威联通华硕NAS部署教程！_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/a4pllmql/
+        icon: fas fa-link
+        description: 新手向NAS教程 篇二十一：高质量国产免费SD-WAN！Docker版蒲公英群晖威联通华硕NAS部署教程！_NAS存储_什么值得买
+      - name: NAS原来这么有用 篇130：NAS搭建开源进销存ERP系统—点心云，轻量级—全功能—全性能_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/ao93n257/
+        icon: fas fa-link
+        description: NAS原来这么有用 篇130：NAS搭建开源进销存ERP系统—点心云，轻量级—全功能—全性能_NAS存储_什么值得买
+      - name: 不止是反向代理！3分钟在NAS上搭建国内大佬开发的免费开源神器『Lucky』_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/a3x63wrr/
+        icon: fas fa-link
+        description: 不止是反向代理！3分钟在NAS上搭建国内大佬开发的免费开源神器『Lucky』_NAS存储_什么值得买
+      - name: NAS 篇七：NAS用户有福了！使用Docker搭建个人专属的阅读服务器，实现看书/听书自由_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/axzmqov9/
+        icon: fas fa-link
+        description: NAS 篇七：NAS用户有福了！使用Docker搭建个人专属的阅读服务器，实现看书/听书自由_NAS存储_什么值得买
+      - name: nas使用分享 篇十八：Docker部署S-PDF，自建PDF工具箱_网络存储_什么值得买
+        url: https://post.smzdm.com/p/avp834gn/
+        icon: fas fa-link
+        description: nas使用分享 篇十八：Docker部署S-PDF，自建PDF工具箱_网络存储_什么值得买
+      - name: 挖掘群晖NAS实用工具 篇十五：【长文，建议收藏慢看】快过年了，我来盘一盘这50个一直留在NAS上的好工具_网络存储_什么值得买
+        url: https://post.smzdm.com/p/a8pkk9wl/
+        icon: fas fa-link
+        description: 挖掘群晖NAS实用工具 篇十五：【长文，建议收藏慢看】快过年了，我来盘一盘这50个一直留在NAS上的好工具_网络存储_什么值得买
+      - name: 【NAS娱乐回本】重返童年之使用Docker搭建FC-web游戏模拟器_主机游戏_什么值得买
+        url: https://post.smzdm.com/p/a4x27d6x/
+        icon: fas fa-link
+        description: 【NAS娱乐回本】重返童年之使用Docker搭建FC-web游戏模拟器_主机游戏_什么值得买
+      - name: NAS必备的免费神器Lucky_网络存储_什么值得买
+        url: https://post.smzdm.com/p/azoqwz4o/
+        icon: fas fa-link
+        description: NAS必备的免费神器Lucky_网络存储_什么值得买
+  - name: 安装
+    icon: fas fa-folder
+    sites:
+      - name: 网络纯小白一天搞定NAS，谈谈零门槛搭建攻略+神器有多香_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/a60356ge/
+        icon: fas fa-link
+        description: 网络纯小白一天搞定NAS，谈谈零门槛搭建攻略+神器有多香_NAS存储_什么值得买
+      - name: 黑群晖 篇五：2023黑群晖最新安装方式|RR新手也可轻松上手_NAS存储_什么值得买
+        url: https://post.smzdm.com/p/am3epen4/
+        icon: fas fa-link
+        description: 黑群晖 篇五：2023黑群晖最新安装方式|RR新手也可轻松上手_NAS存储_什么值得买
+  - name: VPN
+    icon: fas fa-folder
+    sites:
+      - name: 群晖可以这么玩 - VPN套件让你的群晖远程访问更方便_值客原创_什么值得买
+        url: https://post.smzdm.com/p/av7k04gn/
+        icon: fas fa-link
+        description: 群晖可以这么玩 - VPN套件让你的群晖远程访问更方便_值客原创_什么值得买
+      - name: 如何使用 Windows 计算机或 Mac 连接到 Synology VPN Server | Synology群晖科技官网
+        url: https://www.synology.com/zh-cn/knowledgebase/DSM/tutorial/Network/How_to_connect_to_Synology_s_VPN_Server_using_a_Windows_PC_or_Mac
+        icon: fas fa-link
+        description: 如何使用 Windows 计算机或 Mac 连接到 Synology VPN Server | Synology群晖科技官网
+  - name: 阅读
+    icon: fas fa-folder
+    sites:
+      - name: 推广工程移动阅读平台
+        url: http://m.ndlib.cn/03/html/index.html
+        icon: fas fa-link
+        description: 推广工程移动阅读平台
+      - name: 人间动物园小组
+        url: http://www.douban.com/group/mindfucking/
+        icon: fas fa-link
+        description: 人间动物园小组
+      - name: Jiumo Search 鸠摩搜书 - 文档搜索引擎
+        url: https://www.jiumodiary.com/
+        icon: fas fa-link
+        description: Jiumo Search 鸠摩搜书 - 文档搜索引擎
+      - name: 书享家-电子书下载导航
+        url: http://shuxiangjia.cn/
+        icon: fas fa-link
+        description: 书享家-电子书下载导航
+      - name: 苦瓜书盘
+        url: https://kgbook.com/
+        icon: fas fa-link
+        description: 苦瓜书盘
+      - name: 伪魔法少女修
+        url: http://hyonos.lofter.com/
+        icon: fas fa-link
+        description: 伪魔法少女修
+      - name: 阅读论坛 - Powered by Discuz!
+        url: https://legado.cn/
+        icon: fas fa-link
+        description: 阅读论坛 - Powered by Discuz!
+      - name: 银色铁轨 - 京洛线 - 悬疑小说 - 原创 | 豆瓣阅读
+        url: https://read.douban.com/column/64564579/
+        icon: fas fa-link
+        description: 银色铁轨 - 京洛线 - 悬疑小说 - 原创 | 豆瓣阅读
+      - name: 阅读签到 - 阅读论坛 - Powered by Discuz!
+        url: https://legado.cn/k_misign-sign.html
+        icon: fas fa-link
+        description: 阅读签到 - 阅读论坛 - Powered by Discuz!
+      - name: 知轩藏书,玄幻小说排行榜-校对全本TXT小说下载网
+        url: https://zxcs.info/
+        icon: fas fa-link
+        description: 知轩藏书,玄幻小说排行榜-校对全本TXT小说下载网
+      - name: 晴天小说
+        url: http://api.qingtian618.cn:9999/online_search
+        icon: fas fa-link
+        description: 晴天小说
+      - name: 用户信息
+        url: http://api.qingtian618.cn:9999/user
+        icon: fas fa-link
+        description: 用户信息
+      - name: 论坛 - Powered by Discuz!
+        url: http://www.1000qm.vip/forum.php
+        icon: fas fa-link
+        description: 论坛 - Powered by Discuz!
+  - name: 在线视频网站
+    icon: fas fa-folder
+    sites:
+      - name: NO视频 – 不负追剧好时光 (￣▽￣)&quot;
+        url: http://www.novipnoad.com/
+        icon: fas fa-link
+        description: NO视频 – 不负追剧好时光 (￣▽￣)&quot;
+      - name: 影视森林——观影第一站
+        url: http://www.549.tv/
+        icon: fas fa-link
+        description: 影视森林——观影第一站
+      - name: 555电影_最新Netflix新剧_韩国电影免费在线观看
+        url: https://555movie.top/
+        icon: fas fa-link
+        description: 555电影_最新Netflix新剧_韩国电影免费在线观看
+      - name: 网站地图_哚哚电影网
+        url: https://www.duo635.top/allmovie.html
+        icon: fas fa-link
+        description: 网站地图_哚哚电影网
+  - name: 影视剧推荐
+    icon: fas fa-folder
+    sites:
+      - name: 一集就上头，又来一部爆款烧脑美剧，让人上头啊！_其他文化娱乐_什么值得买
+        url: https://post.smzdm.com/p/aox24v9m/
+        icon: fas fa-link
+        description: 一集就上头，又来一部爆款烧脑美剧，让人上头啊！_其他文化娱乐_什么值得买
+      - name: 推荐十部欲罢不能的爽剧，十一假期不怕剧荒了，快收藏吧！_其他文化娱乐_什么值得买
+        url: https://post.smzdm.com/p/a7dm6mw5/
+        icon: fas fa-link
+        description: 推荐十部欲罢不能的爽剧，十一假期不怕剧荒了，快收藏吧！_其他文化娱乐_什么值得买
+      - name: 一口气追剧， 2021年奈飞Netflix神剧排名， R级_其他文化娱乐_什么值得买
+        url: https://post.smzdm.com/p/ad2027mz/
+        icon: fas fa-link
+        description: 一口气追剧， 2021年奈飞Netflix神剧排名， R级_其他文化娱乐_什么值得买
+      - name: HBO出品必为精品，推荐几部HBO出品的必看剧集，没看的抓紧时间收藏起来，全是九分好剧。_其他文化娱乐_什么值得买
+        url: https://post.smzdm.com/p/aox32e97/
+        icon: fas fa-link
+        description: HBO出品必为精品，推荐几部HBO出品的必看剧集，没看的抓紧时间收藏起来，全是九分好剧。_其他文化娱乐_什么值得买
+      - name: 今年最推荐的韩剧 Dr.Brain - 影视 - STAGE1
+        url: https://bbs.saraba1st.com/2b/thread-2037707-1-1.html
+        icon: fas fa-link
+        description: 今年最推荐的韩剧 Dr.Brain - 影视 - STAGE1
+      - name: 周末推片：网络谜踪(人肉搜寻)，高清中字豆瓣9.0-福利吧
+        url: http://fuliba.net/searching.html
+        icon: fas fa-link
+        description: 周末推片：网络谜踪(人肉搜寻)，高清中字豆瓣9.0-福利吧
+      - name: CCTV纪录片《案藏玄机》全集 - 嗶哩嗶哩 - ( ゜- ゜)つロ 乾杯~ - bilibili.tv
+        url: http://bilibili.kankanews.com/video/av895184/#
+        icon: fas fa-link
+        description: CCTV纪录片《案藏玄机》全集 - 嗶哩嗶哩 - ( ゜- ゜)つロ 乾杯~ - bilibili.tv
+      - name: 正在免费播放 风中有朵雨做的云 未删减版--hdzyk,高清资源库,优质资源库
+        url: https://1080zyk6.com/?m=vod-play-id-1346-src-1-num-2.html
+        icon: fas fa-link
+        description: 正在免费播放 风中有朵雨做的云 未删减版--hdzyk,高清资源库,优质资源库
+  - name: X-X
+    icon: fas fa-folder
+    sites:
+      - name: "SpankBang: Free Porn Videos and 4K Sex Movies"
+        url: https://spankbang.com/
+        icon: fas fa-link
+        description: "SpankBang: Free Porn Videos and 4K Sex Movies"
+      - name: 新的成人影片, 頁面 3 - XVIDEOS.COM
+        url: https://www.xvideos.com/new/2
+        icon: fas fa-link
+        description: 新的成人影片, 頁面 3 - XVIDEOS.COM
+      - name: 911爆料网
+        url: https://bl08.co/
+        icon: fas fa-link
+        description: 911爆料网
+      - name: 911爆料网-红领巾瓜报 吃瓜爆料第一线 bl07.co
+        url: https://wqpcrirb.ekjckkh.vip/
+        icon: fas fa-link
+        description: 911爆料网-红领巾瓜报 吃瓜爆料第一线 bl07.co
+      - name: 91吃瓜网-最新最全热门大瓜 91cg.fun
+        url: https://www.91cg1.com/page/2/
+        icon: fas fa-link
+        description: 91吃瓜网-最新最全热门大瓜 91cg.fun
+      - name: 911爆料网-红领巾瓜报 吃瓜爆料第一线 bl07.co
+        url: https://kmmbmaoj.ekjckkh.vip/page/2/
+        icon: fas fa-link
+        description: 911爆料网-红领巾瓜报 吃瓜爆料第一线 bl07.co
+      - name: Nude video celebs » Anne Heywood nude - Good Luck, Miss Wyckoff (1979)
+        url: https://videocelebs.net/anne-heywood-nude-good-luck-miss-wyckoff-1979.html
+        icon: fas fa-link
+        description: Nude video celebs » Anne Heywood nude - Good Luck, Miss Wyckoff (1979)
+  - name: 音乐
+    icon: fas fa-folder
+    sites:
+      - name: 田园轻音乐网-用音乐来诠释生活|轻音乐,音乐小站,轻音乐免费下载,分享音乐心情
+        url: http://www.tyqyyw.com/
+        icon: fas fa-link
+        description: 田园轻音乐网-用音乐来诠释生活|轻音乐,音乐小站,轻音乐免费下载,分享音乐心情
+      - name: 伴奏网，5SING伴奏 - 中国原创音乐基地
+        url: http://5sing.kugou.com/bz/index.shtml
+        icon: fas fa-link
+        description: 伴奏网，5SING伴奏 - 中国原创音乐基地
+      - name: 【谈谈如何正确的声带压缩（声带关闭），帮助你上高音】_高音吧_百度贴吧
+        url: http://tieba.baidu.com/p/1587413859
+        icon: fas fa-link
+        description: 【谈谈如何正确的声带压缩（声带关闭），帮助你上高音】_高音吧_百度贴吧
+      - name: Find Music From TV and Movies | Tunefind
+        url: https://www.tunefind.com/
+        icon: fas fa-link
+        description: Find Music From TV and Movies | Tunefind
+      - name: 享乐音乐论坛-为高品质无损音乐而生！享受音乐，分享快乐 - 享乐音乐网
+        url: https://www.xlebbs.com/
+        icon: fas fa-link
+        description: 享乐音乐论坛-为高品质无损音乐而生！享受音乐，分享快乐 - 享乐音乐网
+  - name: 健身
+    icon: fas fa-folder
+    sites:
+      - name: 【每日进食热量需求计算公式】为什么你拼命运动还不瘦
+        url: http://www.douban.com/group/topic/30982241/
+        icon: fas fa-link
+        description: 【每日进食热量需求计算公式】为什么你拼命运动还不瘦
+      - name: insanity 63天脱胎换骨小组小组
+        url: https://www.douban.com/group/insanity/
+        icon: fas fa-link
+        description: insanity 63天脱胎换骨小组小组
+      - name: MAF训练法——最安全也最适宜新手的跑步训练法_跑鞋_什么值得买
+        url: https://post.smzdm.com/p/13472/
+        icon: fas fa-link
+        description: MAF训练法——最安全也最适宜新手的跑步训练法_跑鞋_什么值得买
+      - name: 大家来说说那些流行的减脂健身操吧 - 外野 - Stage1st - Powered by Discuz!
+        url: http://bbs.saraba1st.com/2b/thread-1042514-1-1.html
+        icon: fas fa-link
+        description: 大家来说说那些流行的减脂健身操吧 - 外野 - Stage1st - Powered by Discuz!
+      - name: insanity小组正式成立了
+        url: http://www.douban.com/group/topic/30992508/
+        icon: fas fa-link
+        description: insanity小组正式成立了
+      - name: 关于跑步，我的一些心得体会（姿势） - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛
+        url: https://bbs.saraba1st.com/2b/thread-588344-1-1.html
+        icon: fas fa-link
+        description: 关于跑步，我的一些心得体会（姿势） - 卓明谷 - Stage1st - stage1/s1 游戏动漫论坛
+  - name: 学习
+    icon: fas fa-folder
+    sites:
+      - name: 怎么练好英语口语？ - 知乎
+        url: https://www.zhihu.com/question/20097263
+        icon: fas fa-link
+        description: 怎么练好英语口语？ - 知乎
+      - name: 【老秘网】公文写作培训班｜文稿评改演播室|见证小秘书的成长|分享大手笔的范文 - Powered by Discuz!
+        url: http://www.caiyes.cn/
+        icon: fas fa-link
+        description: 【老秘网】公文写作培训班｜文稿评改演播室|见证小秘书的成长|分享大手笔的范文 - Powered by Discuz!
+      - name: 如何记住吉他指板每个位置代表的音符？ - 知乎
+        url: https://www.zhihu.com/question/350769241
+        icon: fas fa-link
+        description: 如何记住吉他指板每个位置代表的音符？ - 知乎
+      - name: 公文写作 – 数字生活指南（效率手册）
+        url: https://www.guidebook.top/gwxz
+        icon: fas fa-link
+        description: 公文写作 – 数字生活指南（效率手册）
+      - name: 中国大学MOOC(慕课)_优质在线课程学习平台
+        url: https://www.icourse163.org/home.htm?userId=1436168106#/home/course
+        icon: fas fa-link
+        description: 中国大学MOOC(慕课)_优质在线课程学习平台
+      - name: 国家中小学网络云平台
+        url: https://ykt.eduyun.cn/ykt/sjykt/index.html?from=timeline&isappinstalled=0
+        icon: fas fa-link
+        description: 国家中小学网络云平台
+  - name: 资源网站
+    icon: fas fa-folder
+    sites:
+      - name: 行行查 | 行业研究数据库
+        url: https://www.hanghangcha.com/industry
+        icon: fas fa-link
+        description: 行行查 | 行业研究数据库
+      - name: 推荐收藏：那些值得一看的趣味/实用网站合集-福利吧
+        url: http://fulibus.net/quzhan.html
+        icon: fas fa-link
+        description: 推荐收藏：那些值得一看的趣味/实用网站合集-福利吧
+      - name: SimilarSiteSearch.com - 寻找相似网站的最好工具
+        url: https://www.similarsitesearch.com/cn/
+        icon: fas fa-link
+        description: SimilarSiteSearch.com - 寻找相似网站的最好工具
+      - name: 推荐几个 Android Apk 在线下载站点（可下载国外apk） | 技术拉近你我！
+        url: https://coderschool.cn/2476.html
+        icon: fas fa-link
+        description: 推荐几个 Android Apk 在线下载站点（可下载国外apk） | 技术拉近你我！
+      - name: TOPYS | 创意内容平台 OPEN YOUR MIND
+        url: https://m.topys.cn/
+        icon: fas fa-link
+        description: TOPYS | 创意内容平台 OPEN YOUR MIND
+      - name: 建议收藏！10个神级网站助你高效办公、优雅摸鱼！_服务软件_什么值得买
+        url: https://post.m.smzdm.com/p/a9gdvlme/?zdm_ss=Android_9112394854_&send_by=9112394854&from=other&invite_code=zdmcetq354inv
+        icon: fas fa-link
+        description: 建议收藏！10个神级网站助你高效办公、优雅摸鱼！_服务软件_什么值得买
+      - name: 色輪、調色盤產生器 | Adobe Color
+        url: https://color.adobe.com/zh/create/color-wheel
+        icon: fas fa-link
+        description: 色輪、調色盤產生器 | Adobe Color
+      - name: HD/4K/5K Resolution Wallpapers/Backgrounds ▪ Wallroom.io
+        url: https://wallroom.io/
+        icon: fas fa-link
+        description: HD/4K/5K Resolution Wallpapers/Backgrounds ▪ Wallroom.io
+      - name: 在线工具：趣味生成器，好玩停不下来！-福利吧
+        url: http://fulibus.net/shengchengqi.html
+        icon: fas fa-link
+        description: 在线工具：趣味生成器，好玩停不下来！-福利吧
+      - name: 元素周期表 - Ptable
+        url: https://ptable.com/#%E6%80%A7%E8%B4%A8
+        icon: fas fa-link
+        description: 元素周期表 - Ptable
+      - name: 网站合集 | 好网站不私藏
+        url: https://www.207788.xyz/
+        icon: fas fa-link
+        description: 网站合集 | 好网站不私藏
+      - name: VOA英语学习网,提供VOA慢速英语听力在线收听及下载!
+        url: http://www.tingvoa.com/
+        icon: fas fa-link
+        description: VOA英语学习网,提供VOA慢速英语听力在线收听及下载!
+      - name: 存储 SSD NAS DAS_技术论坛_PCEVA,PC绝对领域,探寻真正的电脑知识
+        url: http://bbs.pceva.com.cn/forum-124-1.html
+        icon: fas fa-link
+        description: 存储 SSD NAS DAS_技术论坛_PCEVA,PC绝对领域,探寻真正的电脑知识
+      - name: 信息门 - 马甲门论坛 做专业AD论坛！ - powered by phpwind.net
+        url: http://m.majiamen.com/thread.php?fid=16
+        icon: fas fa-link
+        description: 信息门 - 马甲门论坛 做专业AD论坛！ - powered by phpwind.net
+      - name: 美国地址生成，美国人虚构信息生成-世界各国虚拟身份信息、地址、信用卡生成
+        url: https://www.haoweichi.com/
+        icon: fas fa-link
+        description: 美国地址生成，美国人虚构信息生成-世界各国虚拟身份信息、地址、信用卡生成
+      - name: TopsTip｜前沿科技 &amp; 测评指南
+        url: https://topstip.com/
+        icon: fas fa-link
+        description: TopsTip｜前沿科技 &amp; 测评指南
+      - name: 六一云
+        url: https://www.now61.com/connect
+        icon: fas fa-link
+        description: 六一云
+      - name: CNNVN 国配影迷社区-cnnvn影迷之家
+        url: https://www.cnnvn.com/
+        icon: fas fa-link
+        description: CNNVN 国配影迷社区-cnnvn影迷之家
+      - name: 全国企业查询系统
+        url: https://javaw.icu/
+        icon: fab fa-java
+        description: 全国企业查询系统
+      - name: 真实地址生成器
+        url: https://ip-geoaddress-generator-ui7.pages.dev/
+        icon: fas fa-link
+        description: 真实地址生成器
+      - name: 仪表盘 | 折花令
+        url: https://user.zhehua.store/#/dashboard
+        icon: fas fa-link
+        description: 仪表盘 | 折花令
+      - name: 反斗限免-反斗软件旗下软件限免资讯网站
+        url: https://free.apprcn.com/
+        icon: fas fa-link
+        description: 反斗限免-反斗软件旗下软件限免资讯网站
+      - name: Switch520
+        url: https://www.gamer520.com/
+        icon: fas fa-link
+        description: Switch520
+      - name: Ventusky - 风雨气温图
+        url: https://www.ventusky.com/?p=34.5;116.7;5&l=temperature-2m
+        icon: fas fa-link
+        description: Ventusky - 风雨气温图
+      - name: Claw Cloud
+        url: https://us-east-1.run.claw.cloud/
+        icon: fas fa-link
+        description: Claw Cloud
+      - name: "yonggekkk/Cloudflare_vless_trojan: CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP"
+        url: https://github.com/yonggekkk/Cloudflare_vless_trojan/tree/main
+        icon: fab fa-github
+        description: "yonggekkk/Cloudflare_vless_trojan: CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP"
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ChatGPT
+      - name: 影视搜索
+        url: https://submit.zone.id/
+        icon: fas fa-link
+        description: 影视搜索
+      - name: PrivateBin
+        url: https://rallyutory.serv00.net/
+        icon: fas fa-link
+        description: PrivateBin
+      - name: DeepWiki
+        url: https://deepwiki.com/
+        icon: fas fa-link
+        description: DeepWiki
+      - name: Le Chat - Mistral AI
+        url: https://chat.mistral.ai/chat
+        icon: fas fa-link
+        description: Le Chat - Mistral AI
+  - name: PPT模板
+    icon: fas fa-folder
+    sites:
+      - name: PPT模板 - PPT模板下载 - 幻灯片课件PPT - 觅知网
+        url: https://www.51miz.com/ppt/?utm_term=1241383&utm_source=webad
+        icon: fas fa-link
+        description: PPT模板 - PPT模板下载 - 幻灯片课件PPT - 觅知网
+      - name: PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】
+        url: https://www.ypppt.com/
+        icon: fas fa-link
+        description: PPT模板免费下载_精美免费PPT模板下载 -【优品PPT】
+      - name: PPT超级市场官网-免费、优质、高效、安全的PPT下载和定制
+        url: https://pptsupermarket.com/
+        icon: fas fa-link
+        description: PPT超级市场官网-免费、优质、高效、安全的PPT下载和定制
+      - name: 层级关系PPT图表 - 第一PPT
+        url: https://www.1ppt.com/tubiao/cengji/
+        icon: fas fa-link
+        description: 层级关系PPT图表 - 第一PPT
+      - name: 可编辑中国及各省市地图ppt图表，细分到市-扑奔网,Office文档资源分享平台
+        url: http://www.pooban.com/tubiao/1929.html
+        icon: fas fa-link
+        description: 可编辑中国及各省市地图ppt图表，细分到市-扑奔网,Office文档资源分享平台
+      - name: 整理了几个不错的PPT模板网站，干货～ - 知乎
+        url: https://zhuanlan.zhihu.com/p/34164683
+        icon: fas fa-link
+        description: 整理了几个不错的PPT模板网站，干货～ - 知乎
+  - name: 编程学习
+    icon: fas fa-folder
+    sites:
+      - name: 【计算机科学导论】入门教程_培训课程_基础技术-优达学城(Udacity)官网
+        url: https://cn.udacity.com/course/intro-to-computer-science--cs101
+        icon: fas fa-link
+        description: 【计算机科学导论】入门教程_培训课程_基础技术-优达学城(Udacity)官网
+      - name: 首页 - 廖雪峰的官方网站
+        url: https://www.liaoxuefeng.com/
+        icon: fas fa-link
+        description: 首页 - 廖雪峰的官方网站
+      - name: Python教程 - 廖雪峰的官方网站
+        url: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+        icon: fas fa-link
+        description: Python教程 - 廖雪峰的官方网站
+      - name: Python123
+        url: https://python123.io/index/opencoures
+        icon: fas fa-link
+        description: Python123
+      - name: 中国大学MOOC(慕课)_优质在线课程学习平台
+        url: https://www.icourse163.org/home.htm?userId=1436168106#/home/course
+        icon: fas fa-link
+        description: 中国大学MOOC(慕课)_优质在线课程学习平台
+      - name: 力扣 (LeetCode) 中国官网 - 全球极客挚爱的技术成长平台
+        url: https://leetcode-cn.com/
+        icon: fas fa-link
+        description: 力扣 (LeetCode) 中国官网 - 全球极客挚爱的技术成长平台
+      - name: "Courses | SoloLearn: Learn to code for FREE!"
+        url: https://www.sololearn.com/Courses/
+        icon: fas fa-link
+        description: "Courses | SoloLearn: Learn to code for FREE!"
+      - name: 【福利】各种版本的python下载安装教程 - 知乎
+        url: https://zhuanlan.zhihu.com/p/40346220
+        icon: fas fa-link
+        description: 【福利】各种版本的python下载安装教程 - 知乎
+      - name: "GitHub - jackfrued/Python-100-Days: Python - 100天从新手到大师"
+        url: https://github.com/jackfrued/Python-100-Days
+        icon: fab fa-github
+        description: "GitHub - jackfrued/Python-100-Days: Python - 100天从新手到大师"
+      - name: Python123
+        url: https://python123.io/index/opencoures
+        icon: fas fa-link
+        description: Python123
+  - name: windows及office工具
+    icon: fas fa-folder
+    sites:
+      - name: Office Tool 官方网站 - 管理、下载、安装 Office
+        url: https://otp.landian.vip/zh-cn/
+        icon: fas fa-link
+        description: Office Tool 官方网站 - 管理、下载、安装 Office
+      - name: Windows和Office激活工具集（HWIDGen，DigitalLicense，HEU_KMS_Activator，MicroKMS......）
+        url: https://www.mefcl.com/windowsoffice/607
+        icon: fas fa-link
+        description: Windows和Office激活工具集（HWIDGen，DigitalLicense，HEU_KMS_Activator，MicroKMS......）
+      - name: OfficePLUS，微软Office官方在线模板网站！
+        url: http://www.officeplus.cn/Template/Home.shtml
+        icon: fas fa-link
+        description: OfficePLUS，微软Office官方在线模板网站！
+      - name: ExcelHome - 全球极具影响力的Excel门户,Office视频教程培训中心
+        url: http://www.excelhome.net/
+        icon: fas fa-link
+        description: ExcelHome - 全球极具影响力的Excel门户,Office视频教程培训中心
+      - name: 方方格子Excel工具箱帮助动画-做最专业的Excel工具箱
+        url: http://www.ffcell.com/home/ffcell_doc.aspx
+        icon: fas fa-link
+        description: 方方格子Excel工具箱帮助动画-做最专业的Excel工具箱
+      - name: PKeyToolWeb 微软产品激活工具箱
+        url: https://pkeytools.azurewebsites.net/ShareKeys
+        icon: fas fa-link
+        description: PKeyToolWeb 微软产品激活工具箱
+      - name: 小鱼儿yr系统重装助手2.1(WIN11内核测试版)→小鱼儿yr系统
+        url: https://www.yrxitong.com/h-nd-1022.html
+        icon: fas fa-link
+        description: 小鱼儿yr系统重装助手2.1(WIN11内核测试版)→小鱼儿yr系统
+      - name: Smart Excel — Excel formula bot
+        url: https://www.smartexcel.cc/
+        icon: fas fa-link
+        description: Smart Excel — Excel formula bot
+      - name: 再见了wps，拥有 office 真得很简单_办公软件_什么值得买
+        url: https://post.smzdm.com/p/a6pg3xlz/
+        icon: fas fa-link
+        description: 再见了wps，拥有 office 真得很简单_办公软件_什么值得买
+  - name: 1688资源
+    icon: fas fa-folder
+    sites:
+      - name: 1688大牌行李箱代工厂推荐，新秀丽/外交官/小米都找到啦！轻盈静音性价比贼高，源头代工厂质量嘎嘎地！_拉杆箱_什么值得买
+        url: https://post.smzdm.com/p/azoxz8qr/
+        icon: fas fa-link
+        description: 1688大牌行李箱代工厂推荐，新秀丽/外交官/小米都找到啦！轻盈静音性价比贼高，源头代工厂质量嘎嘎地！_拉杆箱_什么值得买
+      - name: "1688"
+        url: https://www.1688.com/
+        icon: fas fa-link
+        description: "1688"
+      - name: 你买的是“真”德绒内衣吗？真假辨别就看一下几点！（附1688店铺推荐）_保暖内衣_什么值得买
+        url: https://post.smzdm.com/p/akk22zme/
+        icon: fas fa-link
+        description: 你买的是“真”德绒内衣吗？真假辨别就看一下几点！（附1688店铺推荐）_保暖内衣_什么值得买
+      - name: 爱慕先生一号裤、浙锦、蕉内、内外等同款内裤分享_男士内裤_什么值得买
+        url: https://post.smzdm.com/p/agqxd66w/
+        icon: fas fa-link
+        description: 爱慕先生一号裤、浙锦、蕉内、内外等同款内裤分享_男士内裤_什么值得买
+      - name: HS8145C5
+        url: http://192.168.1.1:8080/CustomApp/index.asp
+        icon: fas fa-link
+        description: HS8145C5
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/
+        icon: fas fa-link
+        description: DeepSeek - 探索未至之境
+      - name: LD 研究生院 | 一个公益性的研究生互助组织
+        url: https://www.seeyjys.eu.org/#
+        icon: fas fa-link
+        description: LD 研究生院 | 一个公益性的研究生互助组织
+      - name: Poki (宝玩) - 免费在线小游戏 - 马上玩！
+        url: https://poki.com/zh
+        icon: fas fa-link
+        description: Poki (宝玩) - 免费在线小游戏 - 马上玩！
+      - name: Base64 编码/解码 - 锤子在线工具
+        url: https://www.toolhelper.cn/EncodeDecode/Base64
+        icon: fas fa-link
+        description: Base64 编码/解码 - 锤子在线工具
+  - name: 免费域名网站
+    icon: fas fa-folder
+    sites:
+      - name: Dashboard
+        url: https://nic.ua/en/my
+        icon: fas fa-link
+        description: Dashboard
+      - name: Sitelutions - Solutions for your site. All in one place.
+        url: https://www.sitelutions.com/Auth/acc?pkit_messages=Your%20information%20was%20saved.
+        icon: fas fa-link
+        description: Sitelutions - Solutions for your site. All in one place.
+      - name: net libre
+        url: https://www.netlib.re/
+        icon: fas fa-link
+        description: net libre
+      - name: 小太阳小游戏平台-字符编程网www.zfcode.cn
+        url: http://ht5.nato.netlib.re/
+        icon: fas fa-link
+        description: 小太阳小游戏平台-字符编程网www.zfcode.cn
