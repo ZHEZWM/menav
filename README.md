@@ -53,6 +53,7 @@
 - 🎨 简洁美观的界面设计
 - 📱 响应式布局，支持移动端
 - 🔍 实时搜索功能
+- 🌐 集成Google、Bing、百度等外部搜索引擎
 - 🎯 分类展示网站链接
 - 👥 支持展示社交媒体链接
 - 📝 支持多个内容页面
@@ -64,6 +65,21 @@
 
 <details>
 <summary>点击查看/隐藏更新日志</summary>
+
+### 2025/05/09
+
+**1. 搜索引擎集成功能**
+- ✅ 集成Google、Bing、百度搜索引擎
+- ✅ 通过搜索框图标一键切换不同搜索引擎
+- ✅ 用户选择保存在本地，下次访问自动应用
+
+### 2025/05/08
+
+**1. Handlebars模板系统重构**
+- ✅ 使用Handlebars模板引擎重构整个前端生成系统
+- ✅ 实现模块化、组件化的模板结构，包含layouts、pages和components
+- ✅ 改进代码复用，提高可维护性和扩展性
+- ✅ 优化HTML生成逻辑，提升性能和代码质量
 
 ### 2025/05/04
 
@@ -81,11 +97,6 @@
 **2. 移动端UI优化**
 - ✅ 修复搜索按钮和侧边栏按钮遮挡问题
 - ✅ 点击侧边栏导航项后自动收起侧边栏
-
-**3. 配置加载优先级修复**
-- ✅ 修复了模块化配置目录加载时的关键问题，确保site.yml中的fonts、profile和social配置正确应用
-- ✅ 修复了home.yml中的categories配置未正确加载到导航首页的问题
-- ✅ 增强了配置加载逻辑，确保按照优先级规则完整应用配置
 
 ### 2025/05/02
 
@@ -125,6 +136,7 @@
 
 - HTML5 + CSS3
 - JavaScript (原生)
+- Handlebars 模板引擎
 - Font Awesome 图标
 - GitHub Pages托管/其他各种CI/CD服务托管
 
@@ -140,8 +152,18 @@ menav/
 │   ├── bookmark-processor.js # 书签导入处理器
 │   ├── migrate-config.js # 配置迁移工具
 │   └── script.js     # 前端JavaScript脚本
-├── templates/        # HTML模板
-│   └── index.html    # HTML骨架模板文件
+├── templates/        # Handlebars模板目录
+│   ├── layouts/      # 布局模板
+│   │   └── default.hbs  # 默认布局模板
+│   ├── pages/        # 页面模板
+│   │   ├── home.hbs     # 首页模板
+│   │   ├── projects.hbs # 项目页模板
+│   │   └── ...          # 其他页面模板
+│   └── components/   # 可复用组件模板
+│       ├── navigation.hbs  # 导航组件
+│       ├── category.hbs    # 分类组件
+│       ├── site-card.hbs   # 站点卡片组件
+│       └── ...             # 其他组件
 ├── dist/             # 生成的静态网站（由generator.js生成）
 ├── bookmarks/        # 书签导入目录
 ├── config/           # 模块化配置目录
@@ -185,13 +207,22 @@ npm install
    - 可以参考`config/_default/`目录结构和内容
    - 自定义站点标题、描述、导航链接和网站分类等
 
-4. 本地预览
+4. 导入书签（可选）
+   - 将浏览器导出的HTML格式书签文件放入`bookmarks`目录
+   - 运行书签处理命令：
+   ```bash
+   npm run import-bookmarks
+   ```
+   - 系统会自动将书签转换为配置文件保存到`config/user/pages/bookmarks.yml`
+   - **注意**：`npm run dev`命令不会自动处理书签文件，必须先手动运行上述命令
+
+5. 本地预览
 ```bash
 # 启动开发服务器
 npm run dev
 ```
 
-5. 构建静态网站
+6. 构建静态网站
 ```bash
 # 生成静态HTML文件
 npm run build
@@ -566,6 +597,8 @@ MeNav支持从浏览器导入书签，快速批量添加网站链接，无需手
 
 > **🔔 重要提示**：系统只会处理位于文件夹内的书签，直接放在收藏夹根目录中的书签不会被导入。请确保您要导入的书签都放在文件夹中，每个文件夹将成为导航中的一个分类。
 
+> **⚠️ 开发模式说明**：在本地开发中，`npm run dev` 命令**不会**自动处理书签文件。您必须先手动运行 `npm run import-bookmarks` 命令处理书签，然后再运行 `npm run dev` 或 `npm run build` 查看效果。这与 GitHub Actions 中的自动处理流程不同，请务必注意。
+
 ### 配置加载优先级
 
 书签配置按以下优先级加载（从高到低）：
@@ -634,6 +667,21 @@ MeNav支持从浏览器导入书签，快速批量添加网站链接，无需手
 <details>
 <summary>模块化配置的优势是什么？</summary>
 模块化配置将不同功能的配置分散到多个文件中，便于管理和维护。当网站内容较多时，分散的配置文件让您可以只关注需要修改的特定部分，避免配置文件变得臃肿难以编辑。
+</details>
+
+<details>
+<summary>如何自定义Handlebars模板？</summary>
+MeNav现在使用Handlebars模板系统，您可以通过以下步骤自定义模板：
+
+1. **基本修改**：Fork项目后，您可以编辑`templates`目录下的模板文件
+2. **结构说明**：
+   - `layouts`：包含整体页面布局模板
+   - `pages`：包含各页面的主要内容模板
+   - `components`：包含可复用的组件模板
+3. **组件扩展**：创建新的组件模板时，需要在generator.js中注册，才能通过`{{> component-name}}`语法使用
+4. **自定义页面**：新增页面需要在`templates/pages`添加模板，并确保有对应的配置文件
+
+修改模板后，需要重新构建项目以应用更改。
 </details>
 
 <details>
