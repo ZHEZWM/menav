@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-05-20T09:52:51.874Z
+# 由bookmark-processor.js生成于 2025-05-21T10:26:50.587Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -950,6 +950,10 @@ categories:
         description: ""
       - name: 风鸟-企业查询平台-轻松查企业-查失信-查法人-企业信用-工商查询
         url: https://riskbird.com/
+        icon: fas fa-link
+        description: ""
+      - name: Chat01.ai (原OpenAI01.net)：无限制的OpenAI o1，ChatGPT Pro 的最佳替代
+        url: https://chat01.ai/zh
         icon: fas fa-link
         description: ""
   - name: PPT模板
