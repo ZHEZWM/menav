@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-01T01:09:11.943Z
+# 由bookmark-processor.js生成于 2025-06-01T10:34:39.495Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -74,6 +74,10 @@ categories:
         description: ""
       - name: "CarPT :: 种子 - Powered by NexusPHP"
         url: https://carpt.net/torrents.php
+        icon: fas fa-link
+        description: ""
+      - name: "M-Team - TP :: 種子列表 - Powered by mTorrent"
+        url: https://next.m-team.cc/browse
         icon: fas fa-link
         description: ""
   - name: 装修
