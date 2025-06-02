@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-01T12:26:16.534Z
+# 由bookmark-processor.js生成于 2025-06-02T01:32:29.608Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -966,6 +966,10 @@ categories:
         description: ""
       - name: My giffgaff | giffgaff
         url: https://www.giffgaff.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: giffgaff 中国玩家指南 - 飞书云文档
+        url: https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh
         icon: fas fa-link
         description: ""
   - name: PPT模板
