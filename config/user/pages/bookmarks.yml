@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-03T10:27:29.831Z
+# 由bookmark-processor.js生成于 2025-06-04T10:32:59.072Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -339,14 +339,6 @@ categories:
         description: ""
       - name: replit容器的应用 - 里屋-生产力工具
         url: https://www.253874.net/t/77077
-        icon: fas fa-link
-        description: ""
-      - name: 节点分享链接
-        url: https://146812ac-4a25-4518-b0d7-8c17231a2831-00-2ct4pm2efbgyn.sisko.replit.dev/146812ac-4a25-4518-b0d7-8c17231a2831.html
-        icon: fas fa-link
-        description: ""
-      - name: 节点分享链接
-        url: https://cb6336f1-1a88-48ff-a0c4-e21f46683521-00-lnzew16lky53.pike.replit.dev/cb6336f1-1a88-48ff-a0c4-e21f46683521.html
         icon: fas fa-link
         description: ""
   - name: 域名及证书相关
