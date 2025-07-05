@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-06-11T12:44:50.022Z
+# 由bookmark-processor.js生成于 2025-07-05T01:50:13.591Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1125,6 +1125,10 @@ categories:
         description: ""
       - name: net libre
         url: https://www.netlib.re/
+        icon: fas fa-link
+        description: ""
+      - name: netcup ccp
+        url: https://www.customercontrolpanel.de/start.php
         icon: fas fa-link
         description: ""
       - name: 小太阳小游戏平台-字符编程网www.zfcode.cn
