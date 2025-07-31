@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-07-30T08:21:49.996Z
+# 由bookmark-processor.js生成于 2025-07-31T10:07:15.764Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1141,5 +1141,21 @@ categories:
         description: ""
       - name: 登录
         url: https://kjzx002159.kj9.zgyyxykj.com/index/login
+        icon: fas fa-link
+        description: ""
+      - name: 保姆级教程：绿联刷群晖系统 - YouTube
+        url: https://www.youtube.com/watch?v=cQgmafwbNfc
+        icon: fab fa-youtube
+        description: ""
+      - name: 绿联nas进入BIOS 关闭看门狗安装其它系统_网络存储_什么值得买
+        url: https://post.smzdm.com/p/a3xnev8n/
+        icon: fas fa-link
+        description: ""
+      - name: 2024年10月最新黑群晖安装教程 一键安装 超级简单（万人反馈，适配99%的黑群晖主机，涵盖群晖所有机型）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1XN2QYWEAi/?spm_id_from=333.337.search-card.all.click&amp;vd_source=c50111db380d4669d222dbf4f28aa85a
+        icon: fas fa-link
+        description: ""
+      - name: 绿联DXP6800pro安装黑群晖，完美的群晖配置 - 折腾笔记
+        url: https://blog.zwbcc.cn/archives/dxp6800_DSM
         icon: fas fa-link
         description: ""
