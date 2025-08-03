@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-02T23:50:57.674Z
+# 由bookmark-processor.js生成于 2025-08-03T12:11:45.045Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1157,5 +1157,9 @@ categories:
         description: ""
       - name: 绿联DXP6800pro安装黑群晖，完美的群晖配置 - 折腾笔记
         url: https://blog.zwbcc.cn/archives/dxp6800_DSM
+        icon: fas fa-link
+        description: ""
+      - name: 轩辕镜像 - 中国开发者首选的专业 Docker 镜像加速服务平台
+        url: https://xuanyuan.cloud/recharge
         icon: fas fa-link
         description: ""
