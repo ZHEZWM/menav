@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-07T12:53:08.030Z
+# 由bookmark-processor.js生成于 2025-08-07T13:37:26.974Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1064,6 +1064,10 @@ categories:
         description: ""
       - name: Python123
         url: https://python123.io/index/opencoures
+        icon: fas fa-link
+        description: ""
+      - name: 使用文本编辑器 - Python教程 - 廖雪峰的官方网站
+        url: https://liaoxuefeng.com/books/python/first-program/text-editor/index.html
         icon: fas fa-link
         description: ""
   - name: windows及office工具
