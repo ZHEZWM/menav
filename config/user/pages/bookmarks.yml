@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-07T10:17:39.508Z
+# 由bookmark-processor.js生成于 2025-08-07T12:53:08.030Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -35,6 +35,10 @@ categories:
         description: ""
       - name: LINUX DO - 新的理想型社区
         url: https://linux.do/
+        icon: fas fa-link
+        description: ""
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/
         icon: fas fa-link
         description: ""
       - name: 柒夜导航 - 黑科技网站资源集
@@ -593,6 +597,18 @@ categories:
         url: https://post.smzdm.com/p/am3epen4/
         icon: fas fa-link
         description: ""
+      - name: 绿联nas进入BIOS 关闭看门狗安装其它系统_网络存储_什么值得买
+        url: https://post.smzdm.com/p/a3xnev8n/
+        icon: fas fa-link
+        description: ""
+      - name: 绿联DXP6800pro安装黑群晖，完美的群晖配置 - 折腾笔记
+        url: https://blog.zwbcc.cn/archives/dxp6800_DSM
+        icon: fas fa-link
+        description: ""
+      - name: 2024年10月最新黑群晖安装教程 一键安装 超级简单（万人反馈，适配99%的黑群晖主机，涵盖群晖所有机型）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1XN2QYWEAi/?spm_id_from=333.337.search-card.all.click&amp;vd_source=c50111db380d4669d222dbf4f28aa85a
+        icon: fas fa-link
+        description: ""
   - name: VPN
     icon: fas fa-folder
     sites:
@@ -964,6 +980,22 @@ categories:
         url: https://bx7h0mz5l4n.feishu.cn/wiki/EUrzwYL6liPT35kfiSOcubAmnDh
         icon: fas fa-link
         description: ""
+      - name: 轩辕镜像 - 中国开发者首选的专业 Docker 镜像加速服务平台
+        url: https://xuanyuan.cloud/recharge
+        icon: fas fa-link
+        description: ""
+      - name: Poki (宝玩) - 免费在线小游戏 - 马上玩！
+        url: https://poki.com/zh
+        icon: fas fa-link
+        description: ""
+      - name: 小太阳小游戏平台-字符编程网www.zfcode.cn
+        url: http://ht5.nato.netlib.re/
+        icon: fas fa-link
+        description: ""
+      - name: Base64 编码/解码 - 锤子在线工具
+        url: https://www.toolhelper.cn/EncodeDecode/Base64
+        icon: fas fa-link
+        description: ""
   - name: PPT模板
     icon: fas fa-folder
     sites:
@@ -1092,26 +1124,6 @@ categories:
         url: https://post.smzdm.com/p/agqxd66w/
         icon: fas fa-link
         description: ""
-      - name: HS8145C5
-        url: http://192.168.1.1:8080/CustomApp/index.asp
-        icon: fas fa-link
-        description: ""
-      - name: DeepSeek - 探索未至之境
-        url: https://chat.deepseek.com/
-        icon: fas fa-link
-        description: ""
-      - name: LD 研究生院 | 一个公益性的研究生互助组织
-        url: https://www.seeyjys.eu.org/#
-        icon: fas fa-link
-        description: ""
-      - name: Poki (宝玩) - 免费在线小游戏 - 马上玩！
-        url: https://poki.com/zh
-        icon: fas fa-link
-        description: ""
-      - name: Base64 编码/解码 - 锤子在线工具
-        url: https://www.toolhelper.cn/EncodeDecode/Base64
-        icon: fas fa-link
-        description: ""
   - name: 免费域名网站
     icon: fas fa-folder
     sites:
@@ -1131,8 +1143,8 @@ categories:
         url: https://www.customercontrolpanel.de/start.php
         icon: fas fa-link
         description: ""
-      - name: 小太阳小游戏平台-字符编程网www.zfcode.cn
-        url: http://ht5.nato.netlib.re/
+      - name: HS8145C5
+        url: http://192.168.1.1:8080/CustomApp/index.asp
         icon: fas fa-link
         description: ""
       - name: 中国音乐学院报名点管理后台
@@ -1141,25 +1153,5 @@ categories:
         description: ""
       - name: 登录
         url: https://kjzx002159.kj9.zgyyxykj.com/index/login
-        icon: fas fa-link
-        description: ""
-      - name: 保姆级教程：绿联刷群晖系统 - YouTube
-        url: https://www.youtube.com/watch?v=cQgmafwbNfc
-        icon: fab fa-youtube
-        description: ""
-      - name: 绿联nas进入BIOS 关闭看门狗安装其它系统_网络存储_什么值得买
-        url: https://post.smzdm.com/p/a3xnev8n/
-        icon: fas fa-link
-        description: ""
-      - name: 2024年10月最新黑群晖安装教程 一键安装 超级简单（万人反馈，适配99%的黑群晖主机，涵盖群晖所有机型）_哔哩哔哩_bilibili
-        url: https://www.bilibili.com/video/BV1XN2QYWEAi/?spm_id_from=333.337.search-card.all.click&amp;vd_source=c50111db380d4669d222dbf4f28aa85a
-        icon: fas fa-link
-        description: ""
-      - name: 绿联DXP6800pro安装黑群晖，完美的群晖配置 - 折腾笔记
-        url: https://blog.zwbcc.cn/archives/dxp6800_DSM
-        icon: fas fa-link
-        description: ""
-      - name: 轩辕镜像 - 中国开发者首选的专业 Docker 镜像加速服务平台
-        url: https://xuanyuan.cloud/recharge
         icon: fas fa-link
         description: ""
