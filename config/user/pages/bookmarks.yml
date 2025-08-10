@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-09T02:27:40.136Z
+# 由bookmark-processor.js生成于 2025-08-10T05:10:46.259Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -994,6 +994,14 @@ categories:
         description: ""
       - name: Base64 编码/解码 - 锤子在线工具
         url: https://www.toolhelper.cn/EncodeDecode/Base64
+        icon: fas fa-link
+        description: ""
+      - name: 我的导航
+        url: https://yssy.dpdns.org/
+        icon: fas fa-link
+        description: ""
+      - name: Card Tab
+        url: https://asem.dpdns.org/
         icon: fas fa-link
         description: ""
   - name: PPT模板
