@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-21T12:03:52.100Z
+# 由bookmark-processor.js生成于 2025-08-22T12:53:09.006Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -62,10 +62,6 @@ categories:
         description: ""
       - name: "BTSCHOOL :: 登录 比特校园PT小乐园 - Powered by NexusPHP"
         url: https://pt.btschool.club/login.php
-        icon: fas fa-link
-        description: ""
-      - name: "M-Team - TP :: 首頁 - Powered by NexusPHP"
-        url: https://kp.m-team.cc/index
         icon: fas fa-link
         description: ""
       - name: "财神 :: 种子 - Powered by NexusPHP"
