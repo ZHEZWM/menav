@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-02T02:06:56.670Z
+# 由bookmark-processor.js生成于 2025-10-02T10:24:16.674Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1002,6 +1002,14 @@ categories:
         description: ""
       - name: (9 封私信) 在体制内工作，你悟出了什么真知灼见，可以帮助后来者少走弯路？ - 知乎
         url: https://www.zhihu.com/question/1931120808723484673
+        icon: fas fa-link
+        description: ""
+      - name: 红石API
+        url: https://hongshi1024-l-api.hf.space/app/me
+        icon: fas fa-link
+        description: ""
+      - name: (13 封私信 / 11 条消息) 为什么很多人不使用 Word 中的自动编号功能？ - 知乎
+        url: https://www.zhihu.com/question/19977121
         icon: fas fa-link
         description: ""
   - name: PPT模板
