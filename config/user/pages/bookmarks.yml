@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-19T10:43:47.570Z
+# 由bookmark-processor.js生成于 2025-10-20T10:42:33.617Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1014,6 +1014,14 @@ categories:
         description: ""
       - name: 全国企业信息查询系统-复活版
         url: https://ojx.me/
+        icon: fas fa-link
+        description: ""
+      - name: ZenscaleAi
+        url: https://gy.zenscaleai.com/app/me
+        icon: fas fa-link
+        description: ""
+      - name: Elysia
+        url: https://elysia.h-e.top/app/tokens
         icon: fas fa-link
         description: ""
   - name: PPT模板
