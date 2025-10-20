@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-20T10:42:33.617Z
+# 由bookmark-processor.js生成于 2025-10-20T11:56:56.206Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1016,12 +1016,39 @@ categories:
         url: https://ojx.me/
         icon: fas fa-link
         description: ""
+      - name: Elysia
+        url: https://elysia.h-e.top/app/tokens
+        icon: fas fa-link
+        description: ""
+  - name: 公益AI
+    icon: fas fa-folder
+    sites:
+      - name: 小丑公益站
+        url: https://gy.jiubanai.com/app/tokens
+        icon: fas fa-link
+        description: ""
+      - name: 23公益站
+        url: https://sdwfger.edu.kg/console/token
+        icon: fas fa-link
+        description: ""
+      - name: Gank
+        url: https://api.sdnegerioelbima.eu.org/app/tokens
+        icon: fas fa-link
+        description: ""
+      - name: runAnytimeAPI
+        url: https://veloera.wenwen12345.top/app/tokens
+        icon: fas fa-link
+        description: ""
       - name: ZenscaleAi
         url: https://gy.zenscaleai.com/app/me
         icon: fas fa-link
         description: ""
-      - name: Elysia
-        url: https://elysia.h-e.top/app/tokens
+      - name: Cone
+        url: https://zone.veloera.org/app/tokens
+        icon: fas fa-link
+        description: ""
+      - name: 宝可梦加速器
+        url: https://web1.go52pokemon.com/dashboard
         icon: fas fa-link
         description: ""
   - name: PPT模板
