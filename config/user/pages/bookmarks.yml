@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-23T10:20:22.488Z
+# 由bookmark-processor.js生成于 2025-10-24T10:23:11.618Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1049,6 +1049,22 @@ categories:
         description: ""
       - name: 宝可梦加速器
         url: https://web1.go52pokemon.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Hurricane Electric Hosted DNS
+        url: https://dns.he.net/
+        icon: fas fa-link
+        description: ""
+      - name: joyflix - Overview – Vercel
+        url: https://vercel.com/zhes-projects-8603a685/joyflix/settings/domains
+        icon: fas fa-link
+        description: ""
+      - name: 用户仪表盘 - 二级域名分发
+        url: https://regdm.edu.deal/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: FreeDNS 主机托管平台 - 用户中心
+        url: https://hosting.tbit.top/index.php/user/
         icon: fas fa-link
         description: ""
   - name: PPT模板
