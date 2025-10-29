@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-28T08:13:34.305Z
+# 由bookmark-processor.js生成于 2025-10-29T12:35:26.612Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1073,6 +1073,18 @@ categories:
         description: ""
       - name: FreeDNS 主机托管平台 - 用户中心
         url: https://hosting.tbit.top/index.php/user/
+        icon: fas fa-link
+        description: ""
+      - name: W 公益鸡场
+        url: https://user.wcloud.store/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: W 公益鸡场
+        url: https://user.wcloud.store/profile
+        icon: fas fa-link
+        description: ""
+      - name: Lucky DoneHub - 幸运大转盘
+        url: https://lucky.5202030.xyz/dashboard
         icon: fas fa-link
         description: ""
   - name: PPT模板
