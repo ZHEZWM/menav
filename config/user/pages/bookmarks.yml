@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-12T12:33:29.476Z
+# 由bookmark-processor.js生成于 2025-11-12T13:14:53.946Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1057,6 +1057,14 @@ categories:
         description: ""
       - name: 我爱996公益
         url: https://529961.com/console/personal
+        icon: fas fa-link
+        description: ""
+      - name: WONG公益站
+        url: https://newapi.netlib.re/app/wallet
+        icon: fas fa-link
+        description: ""
+      - name: Inno
+        url: https://api.inyx.us:2053/console/personal
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
