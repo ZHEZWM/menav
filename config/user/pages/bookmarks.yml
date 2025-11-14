@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-13T14:41:23.243Z
+# 由bookmark-processor.js生成于 2025-11-14T02:37:58.809Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1065,6 +1065,10 @@ categories:
         description: ""
       - name: Inno
         url: https://api.inyx.us:2053/console/personal
+        icon: fas fa-link
+        description: ""
+      - name: SillyTavern - 欢迎
+        url: https://st.pixcora.com/
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
