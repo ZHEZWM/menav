@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-14T09:51:22.320Z
+# 由bookmark-processor.js生成于 2025-11-15T01:02:05.557Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1069,6 +1069,14 @@ categories:
         description: ""
       - name: SillyTavern - 欢迎
         url: https://st.pixcora.com/
+        icon: fas fa-link
+        description: ""
+      - name: 公益OPENAI模型站
+        url: https://ny.uy/
+        icon: fas fa-link
+        description: ""
+      - name: 订阅 - pi加速
+        url: https://pi.oldfriend.me/getsub
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
