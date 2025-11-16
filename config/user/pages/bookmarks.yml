@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-15T14:57:16.733Z
+# 由bookmark-processor.js生成于 2025-11-16T03:31:50.610Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1077,6 +1077,14 @@ categories:
         description: ""
       - name: 订阅 - pi加速
         url: https://pi.oldfriend.me/getsub
+        icon: fas fa-link
+        description: ""
+      - name: Huan API
+        url: https://ai.huan666.de/app/me
+        icon: fas fa-link
+        description: ""
+      - name: 逆水寒
+        url: https://api.sxxe.net/console/personal
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
