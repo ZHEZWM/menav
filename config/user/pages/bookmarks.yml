@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-11-30T01:47:07.694Z
+# 由bookmark-processor.js生成于 2025-11-30T09:01:17.972Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1091,6 +1091,14 @@ categories:
         url: https://elysia.h-e.top/app/tokens
         icon: fas fa-link
         description: ""
+      - name: 莹のAPI
+        url: https://api.wpgzs.top/console/token
+        icon: fas fa-link
+        description: ""
+      - name: New API
+        url: https://new.123nhh.xyz/console/token
+        icon: fas fa-link
+        description: ""
       - name: 宝可梦加速器
         url: https://web1.go52pokemon.com/dashboard
         icon: fas fa-link
@@ -1117,6 +1125,10 @@ categories:
         description: ""
       - name: 河马大学邮箱系统
         url: https://mail.hema.edu.kg/inbox
+        icon: fas fa-link
+        description: ""
+      - name: 我的导航
+        url: https://yssy.dpdns.org/#
         icon: fas fa-link
         description: ""
   - name: PPT模板
