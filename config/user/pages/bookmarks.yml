@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-07T09:27:34.919Z
+# 由bookmark-processor.js生成于 2025-12-07T10:48:55.879Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1019,10 +1019,6 @@ categories:
   - name: 公益AI
     icon: fas fa-folder
     sites:
-      - name: 小丑公益站
-        url: https://gy.jiubanai.com/app/tokens
-        icon: fas fa-link
-        description: ""
       - name: 23公益站
         url: https://sdwfger.edu.kg/console/token
         icon: fas fa-link
@@ -1041,14 +1037,6 @@ categories:
         description: ""
       - name: Cone
         url: https://zone.veloera.org/app/tokens
-        icon: fas fa-link
-        description: ""
-      - name: 包子铺 - 你的幸运加油站
-        url: https://lucky.5202030.xyz/
-        icon: fas fa-link
-        description: ""
-      - name: 包子铺
-        url: https://api.5202030.xyz/panel
         icon: fas fa-link
         description: ""
       - name: 我爱996公益
@@ -1101,6 +1089,10 @@ categories:
         description: ""
       - name: AI PPT Generator - 智能PPT生成平台
         url: http://sylyzh.nttwl.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Chiban api
+        url: https://api.chibanban.de/
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
