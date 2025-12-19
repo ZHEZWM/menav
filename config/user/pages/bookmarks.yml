@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-19T10:38:03.394Z
+# 由bookmark-processor.js生成于 2025-12-19T12:37:51.449Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1097,6 +1097,10 @@ categories:
         description: ""
       - name: Free DuckCoding
         url: https://free.duckcoding.com/console/personal
+        icon: fas fa-link
+        description: ""
+      - name: 随时跑路的小站
+        url: http://103.109.20.169:10769/console/token
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
