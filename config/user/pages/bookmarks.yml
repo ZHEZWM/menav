@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-20T08:18:02.324Z
+# 由bookmark-processor.js生成于 2025-12-20T09:35:22.926Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1101,6 +1101,10 @@ categories:
         description: ""
       - name: 随时跑路的小站
         url: http://103.109.20.169:10769/console/token
+        icon: fas fa-link
+        description: ""
+      - name: Wind Hub
+        url: https://api.224442.xyz/panel/profile
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
