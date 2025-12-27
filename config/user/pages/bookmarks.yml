@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-26T10:12:20.029Z
+# 由bookmark-processor.js生成于 2025-12-27T03:03:27.107Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1109,6 +1109,14 @@ categories:
         description: ""
       - name: 学渣助手
         url: https://gptkey.eu.org/console/token
+        icon: fas fa-link
+        description: ""
+      - name: AI 生图平台
+        url: https://ztu.ai/
+        icon: fas fa-link
+        description: ""
+      - name: Free Gemini Pro
+        url: https://freebanana.pro/
         icon: fas fa-link
         description: ""
       - name: 宝可梦加速器
