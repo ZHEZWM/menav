@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-01-21T10:09:57.742Z
+# 由bookmark-processor.js生成于 2026-01-22T10:34:23.171Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1157,6 +1157,10 @@ categories:
         description: ""
       - name: 极速英语 新概念英语在线学习 英语四六级口语 考研雅思托福笔试考试学习资料_极速英语
         url: https://www.runtoenglish.com/
+        icon: fas fa-link
+        description: ""
+      - name: My Maricopa Student Portal
+        url: https://portal.maricopa.edu/dashboard
         icon: fas fa-link
         description: ""
   - name: PPT模板
