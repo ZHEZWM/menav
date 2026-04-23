@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-04-22T10:23:51.935Z
+# 由bookmark-processor.js生成于 2026-04-23T10:12:38.905Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1304,10 +1304,6 @@ categories:
         description: ""
       - name: Sitelutions - Solutions for your site. All in one place.
         url: https://www.sitelutions.com/Auth/acc?pkit_messages=Your%20information%20was%20saved.
-        icon: fas fa-link
-        description: ""
-      - name: net libre
-        url: https://www.netlib.re/
         icon: fas fa-link
         description: ""
       - name: netcup ccp
